@@ -1,5 +1,7 @@
 # VOLT — інтернет-магазин електроніки
 
+**Живе демо:** https://andreyvalko01-pixel.github.io/volt-shop/
+
 Фронтенд магазину електроніки на React + Vite.
 
 ![Головна](screenshots/desktop.png)
